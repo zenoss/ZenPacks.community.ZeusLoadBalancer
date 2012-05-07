@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.ZeusLoadBalancer"
 VERSION = "1.0"
 AUTHOR = "Simon Helson"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.ZeusLoadBalancer']
 INSTALL_REQUIRES = []
